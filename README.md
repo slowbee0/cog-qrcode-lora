@@ -46,3 +46,7 @@ https://www.liblib.art/modelinfo/dba95d73ac5d4189bf1f12f2394fc727
 
 ## error 
 https://github.com/replicate/cog/issues/1294
+
+## other
+peft support multi-lora for DiffusionPipeline, but not StableDiffusionControlNetPipeline
+https://huggingface.co/docs/diffusers/main/en/tutorials/using_peft_for_inference
