@@ -23,7 +23,9 @@ $ cog run script/download-weights
 
 ## build & push
 ```angular2html
+# create model space first at https://replicate.com/create and then push
 $ cog push r8.im/<your-username>/<your-model-name>
+# e.g. cog push r8.im/datamonet/cog-qrcode-lora
 ```  
 
 ## About test lora  
