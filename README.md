@@ -1,5 +1,5 @@
 # cog-qrcode-lora 
-A copy of https://github.com/andreasjansson/cog-qrcode
+A modify of https://github.com/andreasjansson/cog-qrcode
 
 # Push model to Replicate
 https://replicate.com/docs/guides/push-a-model  
@@ -25,7 +25,7 @@ https://www.liblib.art/modelinfo/dba95d73ac5d4189bf1f12f2394fc727
 $ python script/download_weights.py
 
 # or use cog to download base models? (not verify)
-$ cog run script/download-weights
+# $ cog run script/download-weights
 ```
 
 ## build & push
