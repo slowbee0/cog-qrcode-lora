@@ -30,7 +30,11 @@ $ python script/download_weights.py
 
 ## build & push
 ```angular2html
-# create model space first at https://replicate.com/create and then push
+# build for test optional
+# $ cog build -t test_build_img
+# create model space first on replicate
+https://replicate.com/create
+# push
 $ cog push r8.im/<your-username>/<your-model-name>
 # e.g. cog push r8.im/datamonet/cog-qrcode-lora
 ```  
