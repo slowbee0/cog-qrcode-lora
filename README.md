@@ -1,11 +1,17 @@
 # cog-qrcode-lora 
 A copy of https://github.com/andreasjansson/cog-qrcode
 
+# Push model to Replicate
+https://replicate.com/docs/guides/push-a-model  
+
 ## install & login COG on Mac
 ```angular2html
 $ brew install cog
 $ cog login
 ```
+
+## install and start Docker
+https://docs.docker.com/get-docker/
   
 ## download weights
 ```angular2html
