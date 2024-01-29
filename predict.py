@@ -137,7 +137,6 @@ class Predictor(BasePredictor):
     ) -> List[Path]:
         if base_model != self.meta.get("model_id"):
             self.setup(model_id=base_model)
-            self.meta["model_id"] = base_model
 
         # todo: do not reload for same params
         if self.meta["fused_lora"]:
