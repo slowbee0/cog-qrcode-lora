@@ -3,6 +3,7 @@ A copy of https://github.com/andreasjansson/cog-qrcode
 
 # Push model to Replicate
 https://replicate.com/docs/guides/push-a-model  
+https://github.com/replicate/cog  
 
 ## install & login COG on Mac
 ```angular2html
